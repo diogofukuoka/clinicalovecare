@@ -5,7 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
-    base: '/Cl-nica-Veterin-ria-Love-Care-Animal/',
+    base: '/clinicalovecare/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
