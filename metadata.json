@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Clínica Love Care",
+  "description": "Landing page de luxo e alta conversão para Clínica Love Care, focada em saúde, bem-estar animal e longevidade pet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
